@@ -61,3 +61,5 @@ gem "bcrypt", "~> 3.1.7"
 group :development do
   eval_gemfile "gemfiles/rubocop.gemfile"
 end
+
+gem 'bigdecimal'
